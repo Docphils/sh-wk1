@@ -1,5 +1,5 @@
 <?php
-MyName = "Philip Nwachukwu";
+MyName = "<h1>Philip Nwachukwu</h1>";
 
 echo MyName;
 
