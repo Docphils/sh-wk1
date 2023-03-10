@@ -1,0 +1,6 @@
+<?php
+MyName = "Philip Nwachukwu";
+
+echo MyName;
+
+?>
