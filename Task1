@@ -1,6 +1,6 @@
 <?php
-MyName = "<h1>Philip Nwachukwu</h1>";
+$MyName = "<h1>Philip Nwachukwu</h1>";
 
-echo MyName;
+echo $MyName;
 
 ?>
